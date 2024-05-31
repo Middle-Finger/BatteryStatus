@@ -1,4 +1,4 @@
-# div_one
+# BatteryStatus
 
 ## Project setup
 ```
